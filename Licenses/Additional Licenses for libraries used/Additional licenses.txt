@@ -1,0 +1,9 @@
+The software uses FreeGlut, Glew, LodePNG libraries for development purposes only. These libraries are redistributed under the specific terms of the licenses as below:
+
+•	FreeGlut (http://freeglut.sourceforge.net/) --  X-Consortium license.
+•	Glew (http://glew.sourceforge.net/) --  Modified BSD License, the Mesa 3-D License (MIT) and the Khronos License (MIT)
+•	LodePNG (http://lodev.org/lodepng/) -- zlib license (https://www.openhub.net/licenses/zlib_libpng)
+
+
+The software uses artwork distributed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication: https://pixabay.com/en/turret-arch-snow-winter-sandstone-1364314/
+
